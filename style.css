@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 0 24px;
+
+
+}
+
+h5 {
+    color: red 94302f;
+
+}
+
+/* IMAGENS */
+img {
+    width: 100%;
+    display: block;
+    border-radius: 28px;
+    
+}
