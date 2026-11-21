@@ -79,10 +79,16 @@ img {
 }
 
 .textoitalicend {
-    margin-top: 150px;
+    margin-top: 40px;
     text-align: center;
 }
 
+hr {
+    border: none;
+    border-top: 1px solid #D9D9D9;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
 
 footer {
     color: #333333;
