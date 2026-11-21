@@ -9,12 +9,14 @@
 }
 
 main {
-    max-width: 1120px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 24px;
 
 }
 
+
+/* títlos h5 acima do título principal */
 .titulo {
     color: #E1624F;
     margin-top: 60px;
@@ -26,14 +28,38 @@ h1 {
     margin-bottom: 30px;
 }
 
+
+/* títlos das seções */
 .subtitle {
-    margin-top: 10px;
+    margin-top: 25px;
     margin-bottom: 15px;
     
 }
 
 
+.textoitalic {
+    margin-top: 10px;
+    text-align: center;
+}
 
+/* bom para histórias */
+.historia {
+    color: #0C51A7;
+    margin-left: 20px;
+    margin-bottom: 48px;
+}
+
+/* Topico final 1 */
+.casais {
+    color: #591B98;
+    margin-left: 20px;
+}
+
+/* Topicos finais 2 e 3 */
+.texvermelho {
+    color: #E5245E;
+    margin-left: 20px;
+}
 
 /* IMAGENS */
 img {
