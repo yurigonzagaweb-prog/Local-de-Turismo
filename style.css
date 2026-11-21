@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 :root {
@@ -37,7 +38,7 @@ h1 {
 }
 
 
-.textoitalic {
+.textoitalicinic {
     margin-top: 10px;
     text-align: center;
 }
@@ -63,8 +64,26 @@ h1 {
 
 /* IMAGENS */
 img {
-    width: 100%;
-    display: block;
+  
+    max-width: 100%; 
+    height: auto; 
     border-radius: 28px;
     
+}
+
+.textoitalicend {
+    margin-top: 150px;
+    text-align: center;
+}
+
+
+footer {
+    color: #333333;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.icon-rodape {
+    vertical-align: middle;
 }
