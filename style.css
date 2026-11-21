@@ -3,18 +3,37 @@
     padding: 0;
 }
 
+:root {
+    font-family: "IBM Plex Sans", sans-serif;
+    line-height: 150%;
+}
+
 main {
     max-width: 1120px;
     margin: 0 auto;
     padding: 0 24px;
 
+}
+
+.titulo {
+    color: #E1624F;
+    margin-top: 60px;
+    margin-bottom: 10px;
 
 }
 
-h5 {
-    color: red 94302f;
-
+h1 {
+    margin-bottom: 30px;
 }
+
+.subtitle {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    
+}
+
+
+
 
 /* IMAGENS */
 img {
